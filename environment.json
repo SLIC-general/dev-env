@@ -1,0 +1,6 @@
+{
+  "apiBaseUrl": "http://192.168.101.123:6060/api/v1",
+  "authUrl": "http://172.24.60.57:3009/api/v1/admin",
+  "environment": "Dev"
+
+}
