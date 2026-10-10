@@ -1,0 +1,121 @@
+﻿# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.db-journal
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+vendor/
+
+# Build outputs
+/dist
+/build
+/out
+/target
+/bin
+/obj
+
+# Compiled files
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.dylib
+
+# Package files
+*.gem
+*.jar
+*.war
+*.ear
+*.egg
+*.egg-info
+
+# Environment and config files
+.env
+.env.local
+.env.*.local
+config.local.*
+*.local
+secrets.yml
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+*.sdf
+*.opendb
+*.opensdf
+*.suo
+*.user
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Archives
+*.7z
+*.rar
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+
+# Certificate files
+*.pem
+*.crt
+*.key
+*.p12
+
+# Testing coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+.tox/
+.coverage
+*.cover
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Jenkins
+Jenkinsfile.txt
